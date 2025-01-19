@@ -45,6 +45,7 @@ Coming soon! The system is currently in development. Stay tuned for:
 - [Whitepaper](./whitepaper.md)
 - [Technical Overview](./technicaloverview.md)
 - [Tokenomics](./tokenomics.md)
+- [Rollout](./rollout.md)
 
 ## Contact
 
