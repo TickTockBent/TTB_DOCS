@@ -1,4 +1,4 @@
-...[ReadMe](../README.md)
+<--[ReadMe](../README.md)
 
 # TimeTickBase (TTB)
 ## Technical Overview
