@@ -1,3 +1,5 @@
+<--[ReadMe](./README.md)
+
 # TimeTickBase (TTB)
 ## Harnessing Time as Infrastructure
 *Preview Release – January 2025*
