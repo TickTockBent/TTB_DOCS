@@ -43,8 +43,10 @@ Coming soon! The system is currently in development. Stay tuned for:
 ## Additional Resources
 
 - [Whitepaper](./whitepaper.md)
-- 
+- [Technical Overview](./technicaloverview.md)
+- [Tokenomics](./tokenomics.md)
 
 ## Contact
 
+For any questions or opportunities:
 contact@timetickbase.com
